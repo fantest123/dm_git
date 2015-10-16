@@ -1,2 +1,3 @@
 print ("Winner")
 print ("Fuck Spartak")
+print ("Fuck Zenit")
